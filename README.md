@@ -4,7 +4,7 @@ Gained some certifications related to Cloud Computing, Networking, Cybersecurity
 # 1. Networking Essentials – Cisco Networking Academy
 * Learned core networking concepts including LAN, WAN, IP addressing, subnetting, and network topologies
 * Understood routing and switching basics, VLAN concepts, and packet flow fundamentals
-* Gained hands-on exposure to common protocols such as DNS, DHCP, ARP, ICMP, TCP, and UDP
+* Gained hands-on exposure to common protocols such as DNS, DHCP, ICMP, TCP, and UDP
 * Practiced basic troubleshooting using logical, layer-by-layer network analysis
 
 # 2. Cybersecurity Essentials – Cisco Networking Academy
