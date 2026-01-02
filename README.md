@@ -36,7 +36,7 @@ Gained some certifications related to Cloud Computing, Networking, Cybersecurity
 * Gained familiarity with common Linux commands and system utilities.
 * Built confidence working in Linux environments for server and cloud basics.
 
-# 7. Artificial Intelligence (AI) Tools using Python – CADEPT TECHYS
+# 7. Workshop - Artificial Intelligence (AI) Tools using Python – CADEPT TECHYS
 * Gained introductory exposure to **AI tools** and concepts using Python.
 * Learned how Python is used in data handling and basic AI-related tasks.
 * Explored practical examples to understand AI workflows at a beginner level.
